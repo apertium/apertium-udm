@@ -1,0 +1,8 @@
+prefix=@prefix@
+exec_prefix=${prefix}
+srcdir=@datarootdir@/apertium/apertium-udm
+
+Name: apertium-udm
+Description: Finite-state morphological transducer and constraint grammar for Udmurt 
+Version: @VERSION@
+
