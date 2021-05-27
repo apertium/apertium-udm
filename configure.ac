@@ -1,6 +1,6 @@
 AC_PREREQ(2.52)
 
-AC_INIT([Apertium Udmurt], [0.1.0], [apertium-stuff@lists.sourceforge.net], [apertium-udm], [http://wiki.apertium.org/wiki/Apertium-udm])
+AC_INIT([Apertium Udmurt], [0.1.0], [apertium-stuff@lists.sourceforge.net], [apertium-udm], [https://wiki.apertium.org/wiki/Apertium-udm])
 AM_INIT_AUTOMAKE
 
 AC_PROG_LN_S
